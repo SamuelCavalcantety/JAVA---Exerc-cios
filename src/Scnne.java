@@ -9,6 +9,6 @@ public class Scnne {
     {
         Scanner teclado = new Scanner(System.in);
          System.out.print("Digite o seu nome:");
-                String nome = teclado.nextLine();
+        String nome = teclado.nextLine();
     }
 }
